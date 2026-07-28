@@ -56,3 +56,7 @@ sections.forEach(section => {
 
     observer.observe(section);
 });
+.active{
+    color:#00bfff !important;
+    font-weight:bold;
+}
